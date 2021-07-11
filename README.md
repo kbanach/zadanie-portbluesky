@@ -19,6 +19,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Running E2E tests
+
+```bash
+$ npm run test:e2e
+```
+
 ## API endpoints
 
 App is running by default on port 3000: http://localhost:3000
